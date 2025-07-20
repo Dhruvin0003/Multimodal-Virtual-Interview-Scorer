@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+requests
+matplotlib
+librosa
+transformers
+tensorflow
+numpy
+deepface
+moviepy
+opencv-python
+nltk
+sentence-transformers
+soundfile 
+python-multipart
+torch
